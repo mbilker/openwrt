@@ -10,7 +10,7 @@ to the nvram partition. This fixup allows u-boot to be enlarged to up to
 
 Signed-off-by: Matthew Hagan <mnhagan88@gmail.com>
 ---
- arch/arm/boot/dts/bcm958625-meraki-mx6x-common.dtsi | 20 ++++++++++++--------
+ arch/arm/boot/dts/broadcom/bcm958625-meraki-mx6x-common.dtsi | 20 ++++++++++++--------
  1 file changed, 12 insertions(+), 8 deletions(-)
 
 --- a/arch/arm/boot/dts/broadcom/bcm958625-meraki-mx6x-common.dtsi
